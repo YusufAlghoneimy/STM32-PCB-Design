@@ -2,7 +2,7 @@
 
 # STM32F103C8T6 Development Board (KiCad)
 
-A custom STM32 development board designed in **KiCad 9** as a learning project. This PCB is based on the **STM32F103C8T6** microcontroller and includes the essential hardware required for programming, debugging, USB communication, and external peripheral interfacing.
+A custom 2 Layer STM32 development board designed in **KiCad 9** as a learning project. This PCB is based on the **STM32F103C8T6** microcontroller and includes the essential hardware required for programming, debugging, USB communication, and external peripheral interfacing.
 
 Reference:
 Datasheet used: (https://octopart.com/part/stmicroelectronics/STM32F103C8T6?gad_source=1&gad_campaignid=20642695372&gbraid=0AAAAADZKcp-Alkbb7IeYK6pH4JAVgc0-K&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa20-8JRL5y0QMiAJF_y9Jzo9iUv5DF9WO-H_aE_pG1OXbHMajoYCr0aAm-cEALw_wcB)
